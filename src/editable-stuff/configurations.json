@@ -1,10 +1,10 @@
 {
-    "backgroundType": "gradient",
+    "backgroundType": "black",
     "plainBackgroundMode": "daylight",
     "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
-    "FirstName": "Allen",
+    "FirstName": "Victoria",
     "MiddleName": "",
-    "LastName": "Yan",
+    "LastName": "Li",
     "devDesc": "| Engineer | Programmer | Full Stack Developer  ",
     "icons": [{
             "id": 0,
