@@ -32,14 +32,14 @@
         }
     ],
     "aboutHeading": "About Me",
-    "aboutDescription": "I'm Allen Yan, a software developer",
+    "aboutDescription":"Hi there! My name is Victoria Li and I'm currently a freshman in high school.",
     "projectHeading": "My Works",
     "gitHubLink": "https://api.github.com/users/",
-    "gitHubUsername": "xiaoAllen1",
+    "gitHubUsername": "vitobeetle",
     "gitHubQuerry": "/repos?sort=created&direction=desc",
     "projectsLength": 4,
     "showNavigationbar": true,
     "resumeLink": "https://docs.google.com/document/u/1/d/e/2PACX-1vQvhekOawiaeHBGyJTfQiY7RMFNxPgzm9tFuy5gSfOzwOtprqTOgR5qcVAOypdX9YbBQRLG6b7Nr-pr/pub",
     "mobileNumber": "888888888",
-    "emailId": "allenyan0817@gmail.com"
+    "emailId": "vitobeetle@gmail.com"
 }

@@ -23,10 +23,10 @@ const AboutMe = () => {
               }
             },
             "color": {
-              "value": ["#BD10E0", "#B8E986", "#50E3C2", "#FFD300", "#E86363"]
+              "value": ["#D0F2F2"]
             },
             "shape": {
-              "type": "circle",
+              "type": "square",
               "stroke": {
                 "width": 0,
                 "color": "#b6b2b2"
